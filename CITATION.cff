@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use or reference this paper, please cite it using the metadata from this file."
+title: "Uncountability of continuum, another check"
+type: software
+authors:
+  - family-names: "Korotkov"
+    given-names: "Roman"
+    orcid: "https://orcid.org/0009-0003-3813-3116"
+abstract: >-
+  The article continues the series of studies devoted to a critical analysis of the proofs of the uncountability of the continuum. The work focuses on Cantor’s geometric constructions and the transition from them to his theory of order types. It examines how Cantor divided the domains of reflexivity of infinity: the polynomial domain (where the similarity of the part to the whole is preserved) and the exponential domain (where reflexivity is restricted and predicativity is achieved). It is shown that precisely this division renders the geometric proofs and the diagonal argument correct only under the corresponding assumptions about the morphology of infinity. The connection between the axioms of continuity, Archimedes and regularity and the restriction of impredicativity is analysed. An interpretation is proposed according to which modern set theory substantially simplifies Cantor’s original picture by identifying the continuum with the power set of a countable set. Alternative constructions are considered (surreal numbers, fields of greater cardinality, models in first-order logic) in which continuity and density do not entail automatic uncountability in the strong sense. The article demonstrates that the conflict between predicativity and impredicativity is a structural property of the ordering rather than an intrinsic property of the set of points itself.
+keywords:
+  - "uncountability of the reals"
+  - "Cantor’s order types"
+  - "polynomial and exponential reflexivity"
+  - "predicativity and impredicativity"
+  - "axiom of continuity"
+  - "Archimedeanness"
+  - "surreal numbers"
+  - "continuum"
+  - "fields of greater cardinality"
+  - "actual and potential infinity"
+license: CC-BY-4.0
+version: "0.9.0"
+date-released: "2026-11-20"
+doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/roman-korotkov/uncountability-of-continuum-another-check"
+languages:
+  - ru
+preferred-citation:
+  type: article
+  title: "Несчётность множества континуум, ещё шах"
+  orcid: "https://orcid.org/0009-0003-3813-3116"
+  authors:
+    - family-names: "Korotkov"
+      given-names: "Roman"
+  version: "0.9.0"
+  date-released: "2026-11-20"
+  year: 2026
+  doi: 10.5281/zenodo.XXXXXXX
+  languages:
+  - ru
+  notes: "Preprint"
