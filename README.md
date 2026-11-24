@@ -1,4 +1,4 @@
-# Uncountability of continuum, check
+# Uncountability of continuum, another check
 
 [![DOI](https://zenodo.org/badge/1464943066.svg)](https://doi.org/10.5281/zenodo.24386085)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
